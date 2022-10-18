@@ -1,0 +1,27 @@
+body{
+margin: 10;
+    background-color: deeppink;
+width: 200px;
+}
+header{
+    position: relative;
+    padding-left: 200px;
+        }
+nav{
+    position: absolute;
+    top: 0;
+    right: 15px
+}
+
+.lists{
+    display: flex;
+    list-style-type: none;
+    text-align: center;
+}
+
+.lists{
+    color: chartreuse;
+    padding-right: 55px;
+    font-weight: bold;
+    font-size: 20px
+}
